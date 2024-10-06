@@ -46,7 +46,6 @@ Update file paths:
 
 In file.py, update the file_path variable to point to your dataset:
 ```(python)
-
 file_path = 'path/to/your/stock_price.csv'
 ```
 
@@ -87,4 +86,5 @@ date	closing price	open price	high price	low price	volume
 2020-01-02	153.0	150.0	154.0	149.5	1.5M
 ### Author
 Your Name : Hemang Vijay Borse
+
 GitHub: https://github.com/master-Hemang
