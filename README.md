@@ -82,7 +82,9 @@ Example Dataset Format
 Your dataset (CSV file) should look like this:
 
 date	closing price	open price	high price	low price	volume
+
 2020-01-01	150.5	148.2	152.0	147.5	1.2M
+
 2020-01-02	153.0	150.0	154.0	149.5	1.5M
 ### Author
 Your Name : Hemang Vijay Borse
